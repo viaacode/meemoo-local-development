@@ -1,0 +1,3 @@
+[submodule "mock-pid-webservice"]
+	path = mock-pid-webservice
+	url = https://github.com/viaacode/mock-pid-webservice
